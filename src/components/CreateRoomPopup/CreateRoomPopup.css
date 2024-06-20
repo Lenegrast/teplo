@@ -1,0 +1,43 @@
+.popup-facade-room__box {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  overflow: auto;
+  box-sizing: border-box;
+}
+
+.popup-facade-room {
+  border-radius: 4px;
+  border: 2px rgba(20, 25, 26, 0.12) solid;
+  transition: border .1s linear;
+  position: relative;
+  box-sizing: border-box;
+}
+
+.popup-facade-room__input {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+}
+
+.popup-facade-room__card {
+  width: 150px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.popup-facade-room__img {
+  width: 100%;
+  max-height: 400px;
+}
+
+
+.popup-facade-room__title {
+  text-align: center;
+  margin: 12px auto;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0.12px;
+  color: #000;
+}

@@ -1,0 +1,80 @@
+/* Подключаем нормалайз */
+@import url(./vendor/normalize.css);
+
+/* Подключаем шрифты */
+@import url(./vendor/fonts/fonts.css);
+
+/* Настраиваем параметры страницы */
+@import url(./components/App/App.css);
+
+/* Правила для Register*/
+@import url(./components/Register/Register.css);
+
+/* Правила для Header*/
+@import url(./components/Header/Header.css);
+
+/* Правила для Main*/
+@import url(./components/Main/Main.css);
+
+  /* Правила для Techs*/
+  @import url(./components/Main/Techs/Techs.css);
+  
+  /* Правила для navtab */
+  @import url(./components/Main/NavTab/NavTab.css);
+
+  /* Правила для AboutProject */
+  @import url(./components/Main/AboutProject/AboutProject.css);
+  
+  /* Правила для AboutMe */
+  @import url(./components/Main/AboutMe/AboutMe.css);
+  
+/* Правила для Footer*/
+@import url(./components/Footer/Footer.css);
+
+/* Правила для Projects*/
+@import url(./components/Projects/Projects.css);
+
+/* Правила для ProjectTable*/
+@import url(./components/Projects/ProjectTable/ProjectTable.css);
+
+/* Правила для Rooms*/
+@import url(./components/Rooms/Rooms.css);
+
+/* Правила для RoomTable*/
+@import url(./components/Rooms/RoomTable/RoomTable.css);
+
+/* Правила для Fasades*/
+@import url(./components/Facades/Facades.css);
+
+/* Правила для Fasade*/
+@import url(./components/Facade/Facade.css);
+
+/* Правила для CreateProjectPopup*/
+@import url(./components/CreateProjectPopup/CreateProjectPopup.css);
+
+/* Правила для PopupWithForm*/
+@import url(./components/PopupWithForm/PopupWithForm.css);
+
+/* Правила для Profile*/
+@import url(./components/Profile/Profile.css);
+
+/* Правила для InfoTooltip*/
+@import url(./components/InfoTooltip/InfoTooltip.css);
+
+/* Правила для NotFound*/
+@import url(./components/NotFound/NotFound.css);
+
+/* Правила для CreateRoomPopup*/
+@import url(./components/CreateRoomPopup/CreateRoomPopup.css);
+
+/* Правила для GetFacadePopup*/
+@import url(./components/GetFacadePopup/GetFacadePopup.css);
+
+/* Правила для GetRoomPopup*/
+@import url(./components/GetRoomPopup/GetRoomPopup.css);
+
+/* Правила для Room*/
+@import url(./components/Rooms/Room/Room.css);
+
+/* Правила для CreateFacadePopup*/
+@import url(./components/CreateFacadePopup/CreateFacadePopup.css);
